@@ -1,16 +1,19 @@
 # google_signup_flutter
 
-A new Flutter project.
+<img width="1094" alt="Screenshot 2024-01-23 at 12 07 44 AM" src="https://github.com/arthikrishh/flutter_google_signup/assets/116914004/30336397-b22a-4931-bda5-6b2e109667ac">
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+flutter google signup using firebase. 
 
-A few resources to get you started if this is your first Flutter project:
+we'll be creating a flutter app using google signup and firebase authentication.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+first, let's get over some requirements to make this app. we need a firebase account and [google_sign_in](https://pub.dev/packages/google_sign_in) package. 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Here is a Small Demo on How the App Works 
+
+<img width="1126" alt="Screenshot 2024-01-23 at 12 28 40 AM" src="https://github.com/arthikrishh/flutter_google_signup/assets/116914004/f3c54a1c-d2ad-44d1-812d-66dddeb245b9">
+
+
+For More You can visit my website [Aarthi Krishnan](https://aarthikrishnan.com)
