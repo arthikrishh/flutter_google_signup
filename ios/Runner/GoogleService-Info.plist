@@ -1,0 +1,36 @@
+//delete this and replace with your googleservice info file that you downloaded from your firebase project
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>903313162015-umj1dh66kp3ksj8fd2dfasdsfuidou4reif49.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.903313162015-umj1dh6afsd6kp3ksj8fd2sfuidou4reif49</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCuByFM1frGPkwLuJYOfj5KosZYrda7Kyg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>903313145462015</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.googleSignupFlutter</string>
+	<key>PROJECT_ID</key>
+	<string>signup-2634c0a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>signup-26c0a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:903313162015:ios:958332f20454520a43b7a877a2a</string>
+</dict>
+</plist>
